@@ -1,0 +1,20 @@
+# Never publish your manuscripts or generated citation audit results.
+*.docx
+*.doc
+*.pdf
+*.xlsx
+*.xls
+*.csv
+results/
+result/
+citation_check_results/
+audit_output/
+baseline/
+updated/
+comparison.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
